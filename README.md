@@ -2,6 +2,10 @@
   <h1 align="center">Hi there, I'm Maksim</h1>
   <h3 align="center">Welcome to my GitHub Profile</h3>
 </header>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabishiSenshi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabishiSenshi&theme=default)
+
 <body>
   <div>
     <h1 align="center">About Me:</h1>
