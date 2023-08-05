@@ -4,8 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior QA Engineer
 ------------------
 
+I still have a lot to learn before becoming a highly qualified QA specialist. I'm just at the beginning of my learning journey
+
 * 🌍  I'm based in Surgut, Russia
 * ✉️  You can contact me at [ural166@mail.ru](mailto:ural166@mail.ru)
+* 🤝  I'm open to collaborating on interesting projects in the mobile or web direction
 
 ### Skills
 
